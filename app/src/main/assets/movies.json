@@ -1,0 +1,72 @@
+[
+  {
+  "film": "Один дома",
+  "year": 1990,
+  "ratingImdb": 8.3,
+  "filmLength": 103,
+  "country": "США"
+  },
+  {
+  "film": "Джентльмены удачи",
+  "year": 1971,
+  "ratingImdb": 8.5,
+  "filmLength": 84,
+  "country": "Россия"
+  },
+  {
+  "film": "Круэлла ",
+  "year": 2021,
+  "ratingImdb": 7.5,
+  "filmLength": 134,
+  "country": "США, Великобритания"
+  },
+  {
+  "film": "Всегда говори «ДА»",
+  "year": 2008,
+  "ratingImdb": 7.8,
+  "filmLength": 104,
+  "country": "США, Великобритания"
+  },
+  {
+  "film": "Большой Лебовски",
+  "year": 1998,
+  "ratingImdb": 7.8,
+  "filmLength": 117,
+  "country": "США, Великобритания"
+  },
+  {
+  "film": "Мачо и ботан 2",
+  "year": 2014,
+  "ratingImdb": 6.7,
+  "filmLength": 112,
+  "country": "США"
+  },
+  {
+  "film": "Гарфилд",
+  "year": 2004,
+  "ratingImdb": 6.8,
+  "filmLength": 80,
+  "country": "США"
+  },
+  {
+  "film": "Призрак",
+  "year": 2015,
+  "ratingImdb": 7.0,
+  "filmLength": 114,
+  "country": "Россия"
+  },
+  {
+  "film": "Муви 43",
+  "year": 2013,
+  "ratingImdb": 5.0,
+  "filmLength": 100,
+  "country": "США"
+  },
+  {
+  "film": "Вершина страха",
+  "year": 2022,
+  "ratingImdb": 9.5,
+  "filmLength": 115,
+  "country": "Россия"
+  }
+]
